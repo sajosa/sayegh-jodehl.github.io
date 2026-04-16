@@ -13,8 +13,8 @@ title                    : "Sabine Sayegh-Jodehl / Wissenschaftliches Profil"
 title_separator          : "-"
 name                     : &name "Sayegh-Jodehl"
 description              : &description "Sabine Sayegh-Jodehl's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://Sayegh-Jodehl.github.io # The base hostname & protocol for your site e.g. "https://[Sayegh-Jodehl.].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[Sayegh-Jodehl].github.io/[Sayegh-Jodehl]"
+url                      : https://sayegh-jodehl.github.io # The base hostname & protocol for your site e.g. "https://[sayegh-jodehl].github.io",
+                                                           # or if you already have some other page hosted on Github then use "https://[sajosa].github.io/[sayegh-jodehl]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sajosa/Sayegh-Jodehl.github.io"
 
