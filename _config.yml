@@ -7,16 +7,16 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+locale                   : "de-DE"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Sabine Sayegh-Jodehl / Wissenschaftliches Profil"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sayegh-Jodehl"
 description              : &description "Sabine Sayegh-Jodehl's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[Sayegh-Jodehl.].github.io",
+url                      : https://Sayegh-Jodehl.github.io # The base hostname & protocol for your site e.g. "https://[Sayegh-Jodehl.].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[Sayegh-Jodehl].github.io/[Sayegh-Jodehl]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sajosa/Sayegh-Jodehl.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,19 +26,19 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Sabine Sayegh-Jodehl M. Sc."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Medical Doctor specialising in Psychosomatics | Master of Science Biomedical Informatics and Data Science"
   location         : "Germany"
   employer         : "Charité Universitätsmedizin Berlin"
-  uri              : # URL
+  uri              : # https://psychosomatik.charite.de/forschung/digitale_medizin/
   email            : "sayeghjodehl@gmail.com" 
 
   # Academic websites
-  academia         : # URL
+  academia         : # https://psychosomatik.charite.de/forschung/digitale_medizin/
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4277-4712"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "sabinesayeghjodehl" # https://de.linkedin.com/in/sabinesayeghjodehl
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
